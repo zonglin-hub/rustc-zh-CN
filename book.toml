@@ -1,0 +1,10 @@
+[book]
+title = "rustc 手册 中文版"
+description = "rustc 手册详细介绍了 Rust 编译器命令的用法和相关选项用法，阅读手册可让你深入学习 rustc 命令行，熟悉 Rust 编译器的可用选项，并让你构建强大的 Rust 程序。"
+authors = ["The Rust Project Developers"]
+multilingual = false
+src = "src"
+
+[output.html]
+# git-repository-url = "https://github.com/rust-lang/rust/tree/master/src/doc/rustc"
+git-repository-url = "https://github.com/rust-lang-cn/rustc-cn"
