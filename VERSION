@@ -1,0 +1,6 @@
+commit 707d8c3f1bba10d5aaa9c8719c410711edf2e227
+Merge: 31ffe48723d 465ffc9ca78
+Author: bors <bors@rust-lang.org>
+Date:   Fri Oct 27 04:06:40 2023 +0000
+
+repo: https://github.com/rust-lang/rust/tree/master/src/doc/rustc
